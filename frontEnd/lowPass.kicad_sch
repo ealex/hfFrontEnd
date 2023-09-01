@@ -445,6 +445,12 @@
     (uuid fcbd71b0-fa95-4f5c-bbbc-8d602186d4eb)
   )
 
+  (text "LOW pass filter\nThis filter is used to remove interferrence outside the HF band\nFbw = [ ... ... 30Mhz]\nIt can be used together with the high pass filter to reduce the spectrum to [ 2.8Mhz ... 30MHz ]"
+    (at 179.07 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fe533f75-fa4d-465f-862f-e3d101d05357)
+  )
+
   (hierarchical_label "RF_IN" (shape input) (at 41.91 78.74 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 44296865-071d-4936-9a1a-2cbec2aafa9a)

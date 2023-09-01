@@ -605,6 +605,12 @@
     (uuid fc995946-2f1a-4c2c-b9f5-68c514319f3d)
   )
 
+  (text "DAB notch filter\nThis will reduce interferrence from the digital audio broadcast band\nFbw = [ 174Mhz ... 240MHhz ]"
+    (at 180.34 176.53 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid dbcb8b8f-5e59-4e85-8ff1-3dacd375b5e0)
+  )
+
   (hierarchical_label "RF_OUT" (shape output) (at 248.92 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6ac8732c-360a-4113-8adb-bfd71a87949b)

@@ -539,6 +539,12 @@
     (uuid f8e600af-89d0-471b-a061-e8a1207a462b)
   )
 
+  (text "High pass filter\nThis is used to remove AM interferrence from broadcast stations\nFbw = [ 2.8Mhz ... ... ]"
+    (at 179.07 175.26 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8d936772-f6fa-4d42-bb01-ee988a455edf)
+  )
+
   (hierarchical_label "RF_IN" (shape input) (at 57.15 83.82 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 838e44d6-9e46-4503-964a-49309f0be2db)

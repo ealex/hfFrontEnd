@@ -605,6 +605,12 @@
     (uuid fdd6674f-9ef1-4835-8a3c-d0ddfae599fa)
   )
 
+  (text "FM notch filter\nUse this to reduce FM broadcast band interferrence.\nIt can be used to improve aircraft band reception, or NOAA / METEOR\nFbw = [ 83MHz ... 114MHz ]"
+    (at 180.34 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 30b0be8c-ccba-4b8e-ae46-c9df7354340a)
+  )
+
   (hierarchical_label "FILTER_ENABLE" (shape input) (at 57.15 83.82 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2a2c981b-0a7c-437e-a53b-b8f94709c1f7)
