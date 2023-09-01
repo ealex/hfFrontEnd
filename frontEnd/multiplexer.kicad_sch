@@ -1477,7 +1477,7 @@
     (uuid ff1ed0d2-2603-4d26-81df-da433b3fcbd8)
   )
 
-  (text "!! At least 10mm between connector centers\nto allow for easy SMA male handling"
+  (text "!! At least 10mm between connector centers\nto allow for easy male SMA handling"
     (at 85.09 217.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8118d347-2c96-4e93-8d61-537069fd4afc)
