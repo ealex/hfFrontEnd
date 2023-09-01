@@ -279,7 +279,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 500,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -338,16 +338,8 @@
       "bandStopDAB"
     ],
     [
-      "f7c1e334-d119-4b56-9c98-84ec0afc6876",
-      "gain"
-    ],
-    [
-      "9609db41-1fae-4631-afed-7c51a015d15d",
-      "Second Gain"
-    ],
-    [
-      "4a2517c2-8836-425b-8495-39d192349a3e",
-      "Attenuator"
+      "5937e177-3c8e-463d-8003-954f88454d1c",
+      "multiplexer"
     ]
   ],
   "text_variables": {}
